@@ -18,7 +18,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "https://www.portless.com/contact-us"
     }
   ],
   "topbarCtaButton": {
@@ -32,16 +32,6 @@
     }
   ],
   "anchors": [
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://www.portless.com/blog-case-studies"
-    },
-    {
-        "name": "Contact Us",
-        "icon": "envelope",
-        "url": "https://www.portless.com/contact-us"
-    }
   ],
   "navigation": [
     {
