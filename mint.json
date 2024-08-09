@@ -31,9 +31,9 @@
       "url": "api-reference"
     },
     {
-      "name": "API Reference OpenAPI",
+      "name": "API Reference",
       "openapi": "https://github.com/Portless-2024/docs/blob/main/api-reference/openapi.json",
-      "url": "api-reference",
+      "url": "api-reference-2",
       "icon": "square-terminal"
     }
   ],
@@ -41,6 +41,12 @@
     "name": "Home"
   },
   "anchors": [
+     {
+      "name": "API Reference",
+      "openapi": "https://github.com/Portless-2024/docs/blob/main/api-reference/openapi.json",
+      "url": "api-reference-2",
+      "icon": "square-terminal"
+    }
   ],
   "navigation": [
     {
