@@ -65,12 +65,7 @@
     {
       "group": "API Documentation",
       "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "API Documentation 2",
-      "pages": [
+        "api-reference/introduction",
         "api-reference-2"
       ]
     },
