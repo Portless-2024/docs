@@ -28,7 +28,7 @@
   "tabs": [
     {
       "name": "API Reference",
-      "url": "api-reference",
+      "url": "api-reference-openapi",
       "openapi": "https://github.com/Portless-2024/docs/blob/main/api-reference/openapi.json"
     }
   ],
