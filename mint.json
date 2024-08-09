@@ -29,12 +29,6 @@
     {
       "name": "API Reference",
       "url": "api-reference"
-    },
-    {
-      "name": "API Reference",
-      "openapi": "https://github.com/Portless-2024/docs/blob/main/api-reference/openapi.json",
-      "url": "api-reference-2",
-      "icon": "square-terminal"
     }
   ],
   "primaryTab": {
@@ -42,7 +36,7 @@
   },
   "anchors": [
      {
-      "name": "API Reference",
+      "name": "API Reference 2",
       "openapi": "https://github.com/Portless-2024/docs/blob/main/api-reference/openapi.json",
       "url": "api-reference-2",
       "icon": "square-terminal"
@@ -72,6 +66,12 @@
       "group": "API Documentation",
       "pages": [
         "api-reference/introduction"
+      ]
+    },
+    {
+      "group": "API Documentation 2",
+      "pages": [
+        "api-reference-2"
       ]
     },
     {
