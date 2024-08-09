@@ -28,19 +28,14 @@
   "tabs": [
     {
       "name": "API Reference",
-      "url": "api-reference"
+      "url": "api-reference",
+      "openapi": "https://github.com/Portless-2024/docs/blob/main/api-reference/openapi.json"
     }
   ],
   "primaryTab": {
     "name": "Home"
   },
   "anchors": [
-     {
-      "name": "API Reference 2",
-      "openapi": "https://github.com/Portless-2024/docs/blob/main/api-reference/openapi.json",
-      "url": "api-reference-2",
-      "icon": "square-terminal"
-    }
   ],
   "navigation": [
     {
@@ -60,13 +55,6 @@
         "essentials/settings",
         "essentials/navigation",
         "essentials/reusable-snippets"
-      ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction",
-        "api-reference-2"
       ]
     },
     {
