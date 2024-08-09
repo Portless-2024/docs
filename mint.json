@@ -29,6 +29,12 @@
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+    {
+      "name": "API Reference OpenAPI",
+      "openapi": "https://github.com/Portless-2024/docs/blob/main/api-reference/openapi.json",
+      "url": "api-reference",
+      "icon": "square-terminal"
     }
   ],
   "primaryTab": {
